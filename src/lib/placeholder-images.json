@@ -1,0 +1,94 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A person meditating at sunrise on a mountain top.",
+      "imageUrl": "https://images.unsplash.com/photo-1666979289446-6e9ebb257091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3ZWxsbmVzcyUyMGZpdG5lc3N8ZW58MHx8fHwxNzY4MjUzODg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wellness fitness"
+    },
+    {
+      "id": "trainer-1",
+      "description": "Avatar for trainer Jane Doe.",
+      "imageUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2ODI0NTg4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "trainer-2",
+      "description": "Avatar for trainer John Smith.",
+      "imageUrl": "https://images.unsplash.com/photo-1594672830234-ba4cfe1202dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWFuJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY4MTI2NzMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "trainer-3",
+      "description": "Avatar for trainer Emily Jones.",
+      "imageUrl": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b21hbiUyMHNtaWxlfGVufDB8fHx8MTc2ODI1Mzg4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smile"
+    },
+    {
+      "id": "trainer-4",
+      "description": "Avatar for trainer Michael Brown.",
+      "imageUrl": "https://images.unsplash.com/photo-1641971216854-ff2b830f96b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYW4lMjBmaXRuZXNzfGVufDB8fHx8MTc2ODIzMzYxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man fitness"
+    },
+    {
+      "id": "exercise-pushup",
+      "description": "Person doing a pushup.",
+      "imageUrl": "https://images.unsplash.com/photo-1516258454449-64fed1caa732?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwdXNodXAlMjBleGVyY2lzZXxlbnwwfHx8fDE3NjgyNTM4ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pushup exercise"
+    },
+    {
+      "id": "exercise-squat",
+      "description": "Person doing a bodyweight squat.",
+      "imageUrl": "https://images.unsplash.com/photo-1645810809381-97f6fd2f7d10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzcXVhdCUyMGV4ZXJjaXNlfGVufDB8fHx8MTc2ODI0MTA2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "squat exercise"
+    },
+    {
+      "id": "exercise-plank",
+      "description": "Person holding a plank position.",
+      "imageUrl": "https://images.unsplash.com/photo-1606170750739-460f27c2d30d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwbGFuayUyMGZpdG5lc3N8ZW58MHx8fHwxNzY4MjUzODU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "plank fitness"
+    },
+    {
+      "id": "exercise-jumping-jacks",
+      "description": "Person doing jumping jacks.",
+      "imageUrl": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXJkaW8lMjBleGVyY2lzZXxlbnwwfHx8fDE3NjgyNTM4ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cardio exercise"
+    },
+    {
+      "id": "product-protein",
+      "description": "A tub of whey protein powder.",
+      "imageUrl": "https://images.unsplash.com/photo-1579722820308-d74e571900a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwcm90ZWluJTIwcG93ZGVyfGVufDB8fHx8MTc2ODE2NjkzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "protein powder"
+    },
+    {
+      "id": "product-creatine",
+      "description": "A bottle of creatine supplement.",
+      "imageUrl": "https://images.unsplash.com/photo-1701859080744-5233826bb759?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdXBwbGVtZW50JTIwYm90dGxlfGVufDB8fHx8MTc2ODIyNzQyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "supplement bottle"
+    },
+    {
+      "id": "product-yoga-mat",
+      "description": "A rolled-up yoga mat.",
+      "imageUrl": "https://images.unsplash.com/photo-1621886178958-be42369fc9e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx5b2dhJTIwbWF0fGVufDB8fHx8MTc2ODIwNjQ4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yoga mat"
+    },
+    {
+      "id": "product-dumbbells",
+      "description": "A set of dumbbells.",
+      "imageUrl": "https://images.unsplash.com/photo-1584863431255-3997371dcc01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkdW1iYmVsbHMlMjBneW18ZW58MHx8fHwxNzY4MjUzODgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dumbbells gym"
+    },
+    {
+      "id": "product-preworkout",
+      "description": "A tub of pre-workout supplement.",
+      "imageUrl": "https://images.unsplash.com/photo-1704650311263-4563a029bd9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdXBwbGVtZW50JTIwcG93ZGVyfGVufDB8fHx8MTc2ODE2NjkzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "supplement powder"
+    },
+    {
+      "id": "product-multivitamin",
+      "description": "A bottle of multivitamins.",
+      "imageUrl": "https://images.unsplash.com/photo-1687200267568-43c73323c50f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx2aXRhbWluJTIwYm90dGxlfGVufDB8fHx8MTc2ODIxMzk4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vitamin bottle"
+    }
+  ]
+}
